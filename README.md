@@ -1,2 +1,2 @@
-# t1kit
-T1 Kit
+# T1 Kit
+Library for T1 world.
